@@ -14,7 +14,7 @@ namespace DatabaseStore.Test
             Address newAddress = new Address { Id =1, Street="Meciano", City="Dumaguete", Country="Philippines" };
             address.Add(newAddress);
 
-            Customer newCustomer = new Customer { Id = 1, FirstName= "Ian", LastName="Canto", CreatedDate = DateTime.Now, Address = newAddress };
+            Customer newCustomer = new Customer { Id = 1, FirstName= "Martin", LastName="Badon", CreatedDate = DateTime.Now, Address = newAddress };
             customer.Add(newCustomer);
 
             customer.GetAll();
