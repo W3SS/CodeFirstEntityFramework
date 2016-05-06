@@ -23,9 +23,11 @@ namespace DatabaseStore.EF
             //throw new NotImplementedException();
         }
 
-        public bool Delete(T entity)
+        public int Delete(T entity)
         {
-            throw new NotImplementedException();
+     
+            _entityModel.Remove(entity);
+           return _dbManager.SaveChanges();
         }
 
         public List<T> GetAll()
@@ -35,8 +37,7 @@ namespace DatabaseStore.EF
 
         public T GetById(int id)
         {
-            // return _entityModel.Find(id);
-            throw new NotImplementedException();
+            return _entityModel.Find(id);          
         }
 
         public bool Update(T entity)
