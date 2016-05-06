@@ -1,0 +1,15 @@
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\bin\Debug\DatabaseStore.EF.dll.config
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\bin\Debug\DatabaseStore.EF.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\bin\Debug\DatabaseStore.EF.pdb
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\bin\Debug\DatabaseStore.Model.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\bin\Debug\EntityFramework.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\bin\Debug\DatabaseStore.Model.pdb
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\bin\Debug\EntityFramework.xml
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\obj\Debug\DatabaseStore.EF.csprojResolveAssemblyReference.cache
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\obj\Debug\DatabaseStore.EF.Migrations.Maunani.resources
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\obj\Debug\DatabaseStore.EF.Migrations.notSure.resources
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\obj\Debug\DatabaseStore.EF.csproj.GenerateResource.Cache
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\obj\Debug\DatabaseStore.EF.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.EF\obj\Debug\DatabaseStore.EF.pdb

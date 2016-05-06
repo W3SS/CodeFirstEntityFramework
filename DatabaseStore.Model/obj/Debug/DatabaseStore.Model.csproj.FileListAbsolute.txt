@@ -1,0 +1,4 @@
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Model\bin\Debug\DatabaseStore.Model.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Model\bin\Debug\DatabaseStore.Model.pdb
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Model\obj\Debug\DatabaseStore.Model.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Model\obj\Debug\DatabaseStore.Model.pdb

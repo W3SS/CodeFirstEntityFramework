@@ -1,0 +1,14 @@
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\DatabaseStore.Test.exe.config
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\DatabaseStore.Test.exe
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\DatabaseStore.Test.pdb
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\DatabaseStore.EF.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\DatabaseStore.Model.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\EntityFramework.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\DatabaseStore.EF.pdb
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\DatabaseStore.Model.pdb
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\EntityFramework.xml
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\obj\Debug\DatabaseStore.Test.csprojResolveAssemblyReference.cache
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\obj\Debug\DatabaseStore.Test.exe
+C:\Users\mllrdevph-2\Documents\Visual Studio 2015\Projects\CodeFirstEntityFramework\DatabaseStore.Test\obj\Debug\DatabaseStore.Test.pdb
