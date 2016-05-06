@@ -10,7 +10,7 @@ namespace DatabaseStore.EF
     {
         int Add(T entity);
         bool Update(T entity);
-        bool Delete(T entity);
+        int Delete(T entity);
         List<T> GetAll();
         T GetById(int Id);
     }
